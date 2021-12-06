@@ -1,1 +1,1 @@
-It is a real time clock using JavaScript.
+A real time clock using JavaScript.
